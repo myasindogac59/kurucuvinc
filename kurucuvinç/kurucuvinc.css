@@ -1,0 +1,47 @@
+body{
+    background: rgb(254, 252, 252);
+}
+
+.navbar{
+    background:black;
+}
+
+.nav-link:hover{
+    background-color: #7d7a7a;
+    border-radius: 34px;
+    transition: 0.7s;
+    color: aliceblue;
+}
+.nav-link{
+    font-size: 16px;
+}
+
+.contact{
+    color: rgb(43, 42, 42);
+}
+.contact:hover{
+    text-decoration: none;
+    color: black;
+    background-color: #7d7a7a;
+    border-radius: 32px;
+}
+
+.jumbotron{
+    background-color: #efefef;
+}
+
+.carousel1-img{
+    height: 750px;
+}
+
+.carousel-inner{
+    border-radius: 23px;  
+}
+.tel-no{
+    padding-left: 550px;
+    color: #b1abab;
+}
+.carousel-header{
+    color: #ffffff;
+}
+
